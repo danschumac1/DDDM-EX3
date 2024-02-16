@@ -1,0 +1,11 @@
+subject,survival time in days,Status (0=alive, 1=dead)
+A,1,1
+B,4,1
+C,5,0
+D,5,1
+E,7,1
+F,10,0
+G,10,0
+H,12,1
+I,14,1
+J,16,0
